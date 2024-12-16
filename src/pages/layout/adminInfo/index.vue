@@ -3,7 +3,7 @@
 </script>
 
 <template>
-hr职位管理
+  $END$
 </template>
 
 <style scoped lang="scss">
